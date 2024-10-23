@@ -1,0 +1,56 @@
+# Compiled object files
+*.o
+*.obj
+*.dll
+*.class
+*.so
+*.dylib
+*.exe
+
+# Rider project files
+.idea/
+*.sln.iml
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Rider specific files
+.idea/
+*.sln.iml
+.idea_modules/
+
+# Rider and Resharper caches
+.ReSharper*/
+*~/
+.idea/
+
+# Rider file-based project model caches
+.idea_modules/
+
+# Rider plugins and software
+.plugins
+.system
+
+# ASP.NET specific
+appsettings.json
+appsettings.*.json
+
+# .NET specific
+project.lock.json
+project.fragment.lock.json
+artifacts/
+**/Properties/launchSettings.json
+
+# Visual Studio specific
+.vscode/
+.vscode-oss/
+
+# Output files
+bin/
+obj/
+
+# Build directories
